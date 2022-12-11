@@ -2,6 +2,8 @@
 *Translator, copywriter, editor* 
 
 About me: Ever since I was little, people would categorize me as a dreamer. And I do dream big — I plan to one day start my own business. This is one of the reasons why you are currently reading my 'About me': I'm here to try out what it's like to be on the IT side of things.
+
+![Image alt](https://github.com/4evastruggling/rsschool-cv/raw/gh-pages/img1.png)
                                  
 Languages: Russian (Native), English (C1)
 
